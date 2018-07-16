@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=5
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mysql=5
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.security=5
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.sqlserver=5
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.thymeleaf=5
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=5
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=1.5.14.RELEASE
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Invoice project for Spring Boot
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.dxc.projectInvoice
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.dxc.projectInvoice
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=war
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=http\://start.spring.io\n

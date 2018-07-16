@@ -1,0 +1,12 @@
+package com.dxc.projectInvoice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Invoice20180716Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Invoice20180716Application.class, args);
+	}
+}
